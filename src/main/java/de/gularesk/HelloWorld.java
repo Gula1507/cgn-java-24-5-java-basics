@@ -72,6 +72,6 @@ public class HelloWorld {
         System.out.println(x+" lessThan " + y + ": "+ lessThanFloat);
         System.out.println(x+" greatherThan " + y + ": "+ greatherThanFloat);
 
-        System.out.println("Git test");
+        System.out.println("Git test test");
     }
 }
